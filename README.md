@@ -1,5 +1,5 @@
-> *The eternal vow above the twilight between day and night, the memory you left beneath the boundless sky.*
-# <div align="center">Twilight Gate(Github-fork-edition): One Personal Homepage of ChenXi</div>
+> *Hello World*
+# <div align="center">Twilight Gate(Github-fork-edition): [Crz]ChenXi Osu!mania file lib</div>
 <div align="center">
   <a href="https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork"><img src="https://github.com/favicon.ico" alt="Github Page" /></a>
   <a href="https://space.bilibili.com/673806747/"><img src="https://www.bilibili.com/favicon.ico" alt="Bilibili Space" /></a>
@@ -12,10 +12,5 @@
 ![](https://img.shields.io/github/stars/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork.svg)  
 
 ----------
-## Osu!mania file lib
+## Lib
 [Osu!mania 4key Charts Packs Library - OneDrive](https://1drv.ms/f/s!AoZo-eieKMWobD2o_Kvim5hXcf8?e=wmvubC)
-
-## Minecraft file lib
-no more files there...  
-## Mahjong Soul
-no more files there...  
