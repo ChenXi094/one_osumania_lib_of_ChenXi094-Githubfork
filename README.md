@@ -1,5 +1,5 @@
 > *Hello World*
-# <div align="center">Twilight Gate(Github-fork-edition): [Crz]ChenXi Osu!mania file lib</div>
+# <div align="center">Twilight Gate(Github-fork-edition): One osu!mania lib of [Crz]ChenXi</div>
 <div align="center">
   <a href="https://github.com/ChenXi094/TwilightGate-Homepage_of_ChenXi094-Githubfork"><img src="https://github.com/favicon.ico" alt="Github Page" /></a>
   <a href="https://space.bilibili.com/673806747/"><img src="https://www.bilibili.com/favicon.ico" alt="Bilibili Space" /></a>
